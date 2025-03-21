@@ -1,8 +1,5 @@
 // -----------------------------------------------------
-// Name and ID: Shadi Marzouk, 27231466
-// COMP249
-// Assignment #: 3
-// Due Date: December 2, 2024
+// Author: Shadi Marzouk
 // -----------------------------------------------------
 
 package COMP249_A3;
